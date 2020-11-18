@@ -1,0 +1,9 @@
+C:\Users\Aldo Andreano\Desktop\03081180002_Enrico\Cashier\bin\Debug\Cashier.exe.config
+C:\Users\Aldo Andreano\Desktop\03081180002_Enrico\Cashier\bin\Debug\Cashier.exe
+C:\Users\Aldo Andreano\Desktop\03081180002_Enrico\Cashier\bin\Debug\Cashier.pdb
+C:\Users\Aldo Andreano\Desktop\03081180002_Enrico\Cashier\obj\Debug\Cashier.csprojResolveAssemblyReference.cache
+C:\Users\Aldo Andreano\Desktop\03081180002_Enrico\Cashier\obj\Debug\Cashier.Form1.resources
+C:\Users\Aldo Andreano\Desktop\03081180002_Enrico\Cashier\obj\Debug\Cashier.Properties.Resources.resources
+C:\Users\Aldo Andreano\Desktop\03081180002_Enrico\Cashier\obj\Debug\Cashier.csproj.GenerateResource.Cache
+C:\Users\Aldo Andreano\Desktop\03081180002_Enrico\Cashier\obj\Debug\Cashier.exe
+C:\Users\Aldo Andreano\Desktop\03081180002_Enrico\Cashier\obj\Debug\Cashier.pdb

@@ -1,0 +1,8 @@
+C:\Users\Aldo Andreano\Desktop\03081180002_Enrico\Pelanggan\bin\Debug\Pelanggan.exe.config
+C:\Users\Aldo Andreano\Desktop\03081180002_Enrico\Pelanggan\bin\Debug\Pelanggan.exe
+C:\Users\Aldo Andreano\Desktop\03081180002_Enrico\Pelanggan\bin\Debug\Pelanggan.pdb
+C:\Users\Aldo Andreano\Desktop\03081180002_Enrico\Pelanggan\obj\Debug\Pelanggan.Form1.resources
+C:\Users\Aldo Andreano\Desktop\03081180002_Enrico\Pelanggan\obj\Debug\Pelanggan.Properties.Resources.resources
+C:\Users\Aldo Andreano\Desktop\03081180002_Enrico\Pelanggan\obj\Debug\Pelanggan.csproj.GenerateResource.Cache
+C:\Users\Aldo Andreano\Desktop\03081180002_Enrico\Pelanggan\obj\Debug\Pelanggan.exe
+C:\Users\Aldo Andreano\Desktop\03081180002_Enrico\Pelanggan\obj\Debug\Pelanggan.pdb
